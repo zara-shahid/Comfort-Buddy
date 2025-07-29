@@ -50,7 +50,7 @@ I created **Comfort-Buddy** to help people feel supported during moments of stre
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/zara-shahid/Comfort-Buddy.git
-   cd comfort-buddy
+   cd Comfort-Buddy
 
 Install dependencies:
 
